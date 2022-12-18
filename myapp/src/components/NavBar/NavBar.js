@@ -4,6 +4,7 @@ const Navbar = () => {
   return (
     <div>
       <h> new app</h>
+      <p> updated</p>
 
     </div>
   )
